@@ -1,16 +1,22 @@
-## Hi there 👋
+ # 👋  Hello World! I'm Yardelis Orozco  
 
-<!--
-**Yarde1101/Yarde1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Software Developer in Training
+🎓 Psychology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me 
+
+Soy una persona que le gusta estar en constante aprendizaje sobre todo lo que se pueda aprender, me enfoco en tratar de observar desde una distinta perspectiva su propia realidad.
+
+I'm Currently working on a Project Called Riwi Tech Store and learning:
+
+- 📘 Python
+- 📘 HTML
+- 📘 css
+## Interest
+- Videogames
+- Books
+- Technology
+- Movies
